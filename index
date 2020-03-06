@@ -1,1 +1,45 @@
-
+<! DOCTYPE html>
+<html>
+    <body bgcolor="lightgray">
+    <head>
+        <h1>This is going to be a simple website to bew able to introduce my self.</h1>
+        </head>
+    <body>
+        <a href="https://www.formula1.com/">Best sport in the world.</a>
+       <h2><b>Things That I like</b></h2>
+       <table>
+        <tr><th>Rank</th><th>Order</th></tr>
+        <tr><td>1</td><td>Food</td></tr>
+        <tr><td>2</td><td>Hanging out with friends</td></tr>
+        <tr><td>3</td><td>Pc building</td></tr>
+        <tr><td>4</td><td>Watching F1</td></tr>
+        <tr><td>5</td><td>Gaming</td></tr>
+        </table>
+        <h3>Some of the best food (Mexican)</h3>
+        <img src="tacos.jpg">
+        <ul>
+            <li>Tacos</li>
+            <li>Pozole</li>
+            <li>Flan</li>
+            <li>Tostilocos</li>
+            <li>Arroz con leche</li>
+         </ul>
+        <h3>Favorite sports to watch</h3>
+        <img src="F10.jpg">
+        <ul>
+            <li>Formula 1</li>
+            <li>Soccer</li>
+            <li>Baseball</li>
+            
+        </ul>
+        <input type="radio" name="Food">Tacos</input>
+        <input type="radio" name="Food">Pizza</input>
+        <input type="radio" name="Food">Burgers</input>
+    </body>
+    
+    
+    
+    
+    
+    
+</html>
