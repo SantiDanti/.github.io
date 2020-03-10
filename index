@@ -2,21 +2,21 @@
 <html>
     <body bgcolor="lightgray">
     <head>
-        <h1>This is going to be a simple website to bew able to introduce my self.</h1>
+        <h1>Food and F1.</h1>
         </head>
     <body>
         <a href="https://www.formula1.com/">Best sport in the world.</a>
-       <h2><b>Things That I like</b></h2>
+       <h2><b>Best F1 teams</b></h2>
        <table>
-        <tr><th>Rank</th><th>Order</th></tr>
-        <tr><td>1</td><td>Food</td></tr>
-        <tr><td>2</td><td>Hanging out with friends</td></tr>
-        <tr><td>3</td><td>Pc building</td></tr>
-        <tr><td>4</td><td>Watching F1</td></tr>
-        <tr><td>5</td><td>Gaming</td></tr>
+        <tr><th>Rank</th><th>Team Name</th></tr>
+        <tr><td>1</td><td>Ferrari</td></tr>
+        <tr><td>2</td><td>Mercedes</td></tr>
+        <tr><td>3</td><td>Red Bull</td></tr>
+        <tr><td>4</td><td>Willimas</td></tr>
+        <tr><td>5</td><td>Mclaren</td></tr>
         </table>
         <h3>Some of the best food (Mexican)</h3>
-        <img src="tacos.jpg">
+        <img src="tacos.jpg" width="250px" hight="250px">
         <ul>
             <li>Tacos</li>
             <li>Pozole</li>
@@ -25,17 +25,18 @@
             <li>Arroz con leche</li>
          </ul>
         <h3>Favorite sports to watch</h3>
-        <img src="F10.jpg">
+        <img src="F10.jpg" width="250px" hight="250px">
         <ul>
             <li>Formula 1</li>
             <li>Soccer</li>
             <li>Baseball</li>
-            
+            <h2>Favorite team?</h2>
         </ul>
-        <input type="radio" name="Food">Tacos</input>
-        <input type="radio" name="Food">Pizza</input>
-        <input type="radio" name="Food">Burgers</input>
-    </body>
+        <input type="radio" name="F1">Ferrari</input>
+        <input type="radio" name="F1">Mclaren</input>
+        <input type="radio" name="F1">Mrecedes</input>
+       </body>
+    
     
     
     
