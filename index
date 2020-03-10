@@ -34,7 +34,7 @@
         </ul>
         <input type="radio" name="F1">Ferrari</input>
         <input type="radio" name="F1">Mclaren</input>
-        <input type="radio" name="F1">Mrecedes</input>
+        <input type="radio" name="F1">Mercedes-Benz</input>
        </body>
     
     
